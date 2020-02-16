@@ -25,7 +25,7 @@
 ## 行为型模式
 * 策略模式
 * 模板方法模式
-* 观察者模式
+* [观察者模式](https://github.com/futantan/the-disappearing-design-patterns/issues/1)
 * 迭代子模式
 * 责任链模式
 * 命令模式
